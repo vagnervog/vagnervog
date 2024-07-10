@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 Estou mudando de carreira, atualmente me dedicando à linguagem JavaScript, CSS e HTML, dando os primeiros passos na minha construção profissional.
+🌱 Estou mudando de carreira, atualmente me dedicando à linguagem JavaScript, CSS, HTML e Java, dando os primeiros passos na minha construção profissional.
 
 
 ## 🌐 Socials:
